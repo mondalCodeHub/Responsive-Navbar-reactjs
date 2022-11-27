@@ -1,7 +1,7 @@
 # About this project
 ```REACT-SERIES-PROJECT-09(2022)```
 
-Previously, I created a Navbar in a react project, but it was not responsive, so I created this one. This is fully responsive on all devices.
+[Previously](https://github.com/mondalCodeHub/Navbar-reactjs), I created a Navbar in a react project, but it was not responsive, so I created this one. This is fully responsive on all devices.
 
 # How you can run this project on your computer ?
 
@@ -26,3 +26,4 @@ This project is part of my React learning process from the scratch. This is a ve
 
 ## Created By
 Arup Mondal ([@mondalCodeHub](https://www.github.com/mondalCodeHub))
+
